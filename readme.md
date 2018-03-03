@@ -1,6 +1,6 @@
 # Frontfest 2018
 
-Slides de la charla "Dibujo artístico aplic	ado al front":
+Slides de la charla "Dibujo artístico aplicado al front":
 - [PDF 38MB](v1.1.0-dibujo-artistico-aplicado-al-front.pdf)
 
 **Material extra**  
